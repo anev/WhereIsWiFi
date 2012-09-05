@@ -1,4 +1,4 @@
 WhereIsWiFi
 ===========
 
-application to share wifi hotspot location
+application to share wifi hotspot location.
